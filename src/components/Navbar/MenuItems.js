@@ -5,7 +5,7 @@ export const MenuItems = [
     cName: 'dropdown-link'
   },
   {
-    title: 'Six Flags Great Adventure',
+    title: 'Six Flags',
     path: '/six',
     cName: 'dropdown-link'
   },
