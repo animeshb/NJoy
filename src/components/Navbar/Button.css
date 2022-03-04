@@ -1,0 +1,18 @@
+:root {
+  --primary: #1888ff;
+}
+
+.btn {
+  overflow-y: hidden;
+  padding: 8px 20px;
+  outline: none;
+  border: none;
+  font-size: 18px;
+  color: #fff;
+  cursor: pointer;
+  background-color: var(--primary);
+}
+
+.btn:hover{
+  overflow: hidden;
+}

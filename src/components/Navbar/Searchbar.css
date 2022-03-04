@@ -1,0 +1,24 @@
+.Search {
+    width: 400px;
+    margin-left: -500px;
+    position: absolute;
+    display: flex;
+    background-color: #1888ff;
+    border-radius: 5px 5px 5px 5px;
+  }
+
+  .SearchInput {
+    width: 95%;
+    border: 3px solid #1888ff;
+    padding: 5px;
+    border-radius: 5px 5px 5px 5px;
+    outline: none;
+  }
+
+  button {
+    border: 3px solid #1888ff;
+    color: white;
+    border-radius: 5px 5px 5px 5px;
+    background-color: #1888ff;
+    cursor: pointer;
+  }
